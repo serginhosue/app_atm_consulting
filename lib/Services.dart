@@ -17,6 +17,7 @@ class _ServicesState extends State<Services> {
           child: Container(
             padding: EdgeInsets.all(16),
             child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
               children: <Widget>[
                 Row(
                   children: <Widget>[
@@ -37,26 +38,22 @@ class _ServicesState extends State<Services> {
                   padding: EdgeInsets.all(16),
                   child:
                   Text(
-                      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eget nisl neque. "
-                          "Nam eget erat quam. Sed eget nisi tempus arcu tempor pharetra. Nunc convallis iaculis ligula,"
-                          " eu vulputate ligula rutrum eu. Sed sagittis aliquam est, eget tempor dolor condimentum id."
-                          "Pellentesque id varius felis, a tempus libero. Duis turpis nibh, varius sit amet dui vel, pharetra laoreet mi. "
-                          "uisque fringilla ex justo, nec vehicula nisl scelerisque sit amet. Vivamus at facilisis turpis. Nulla ac tempus ligula, "
-                          "ut dapibus magna. In placerat feugiat libero, vel luctus nunc fringilla sit amet."
-                          "\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eget nisl neque. "
-                          "Nam eget erat quam. Sed eget nisi tempus arcu tempor pharetra. Nunc convallis iaculis ligula,"
-                          " eu vulputate ligula rutrum eu. Sed sagittis aliquam est, eget tempor dolor condimentum id."
-                          "Pellentesque id varius felis, a tempus libero. Duis turpis nibh, varius sit amet dui vel, pharetra laoreet mi. "
-                          "uisque fringilla ex justo, nec vehicula nisl scelerisque sit amet. Vivamus at facilisis turpis. Nulla ac tempus ligula, "
-                          "ut dapibus magna. In placerat feugiat libero, vel luctus nunc fringilla sit amet."
-                          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eget nisl neque. "
-                          "Nam eget erat quam. Sed eget nisi tempus arcu tempor pharetra. Nunc convallis iaculis ligula,"
-                          " eu vulputate ligula rutrum eu. Sed sagittis aliquam est, eget tempor dolor condimentum id."
-                          "Pellentesque id varius felis, a tempus libero. Duis turpis nibh, varius sit amet dui vel, pharetra laoreet mi. "
-                          "uisque fringilla ex justo, nec vehicula nisl scelerisque sit amet. Vivamus at facilisis turpis. Nulla ac tempus ligula, "
-                          "ut dapibus magna. In placerat feugiat libero, vel luctus nunc fringilla sit amet."
+                      "Consultoria"
                   ),
-
+                ),
+                Padding(
+                  padding: EdgeInsets.all(16),
+                  child:
+                  Text(
+                      "Cálculo de preços"
+                  ),
+                ),
+                Padding(
+                  padding: EdgeInsets.all(16),
+                  child:
+                  Text(
+                      "Acompanhamento de projetos"
+                  ),
                 )
               ],
             ),
