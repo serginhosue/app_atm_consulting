@@ -11,7 +11,7 @@ class _ConsumersState extends State<Consumers> {
     return Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.cyan,
-          title: Text("Serviços "),
+          title: Text("Clientes"),
         ),
         body: SingleChildScrollView(
           child: Container(
