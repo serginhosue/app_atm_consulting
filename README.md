@@ -23,23 +23,23 @@ the services offering by company and access the contact informations.
 
 ### Home
 
-[Home app]
+![Home app]
 
 ### Company
 
-[Company app]
+![Company app]
 
 ### Services
 
-[Services app]
+![Services app]
 
 ### Clients
 
-[Clients app]
+![Clients app]
 
-### Clients
+### Services
 
-[Service app]
+![Service app]
 
 
 [Home app]: https://raw.githubusercontent.com/serginhosue/my-assets/master/images/app-atm-consulting/home-screen.png
