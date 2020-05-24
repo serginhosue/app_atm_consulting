@@ -21,26 +21,25 @@ mailing list.
 This a Consulting Company APP template, in this app we can see informations about the company, the clients,
 the services offering by company and access the contact informations.
 
-### Home
+## Home
 
 ![Home app]
 
-### Company
+## Company
 
 ![Company app]
 
-### Services
+## Services
 
 ![Services app]
 
-### Clients
+## Clients
 
 ![Clients app]
 
-### Services
+## Services
 
 ![Service app]
-
 
 [Home app]: https://raw.githubusercontent.com/serginhosue/my-assets/master/images/app-atm-consulting/home-screen.png
 [Clients app]: https://raw.githubusercontent.com/serginhosue/my-assets/master/images/app-atm-consulting/clients-screen.png
